@@ -1,4 +1,4 @@
-UNS is an interchain, global name service, a distributed, open, and extensible system based on the mostly used blockchains.
+UNS is an interchain, global name service and wallet, a distributed, open, and extensible system based on the mostly used blockchains.
 UNS can be used to resolve a wide variety of resources. The initial standard for UNS defines resolution for BinanceSmartChain (BSC) addresses, 
 but the system will be extended by design, allowing more blockchain types to be resolved in future without the core components of UNS requiring upgrades. 
 
