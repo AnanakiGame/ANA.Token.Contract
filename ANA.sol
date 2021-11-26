@@ -132,10 +132,10 @@ contract BEP20Token is Context, IBEP20, Ownable {
   string private _name;
 
   constructor() public {
-    _name = "Ananaki Governance Token";
-    _symbol = "ANKI";
-    _decimals = 0;
-    _totalSupply = 500000000000000;
+    _name = "Ananaki Ecosystem";
+    _symbol = "ANA";
+    _decimals = 8;
+    _totalSupply = 500000000000000000;
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
