@@ -1,7 +1,5 @@
-Ananaki Echosystem includes:
+Ananaki Gaming Metaverse Echosystem includes:
 
 Saviors Game
-NFT Marketplace
-AnaSwap
-Cross Wallet
-DeFince
+Artificial Actions
+XVR Equipment
